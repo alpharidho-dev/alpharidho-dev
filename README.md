@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Header alternatif: readme-typing-svg (stabil) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=58A6F7&center=true&vCenter=true&width=600&height=70&lines=Alpha+Ridho;Software+Engineering+Student;Explorer+%26+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=58A6F7&center=true&vCenter=true&width=600&height=70&lines=AlphaRidho;Software+Engineering+Student;Explorer+%26+Innovator" alt="Typing SVG" />
 
 </div>
 
