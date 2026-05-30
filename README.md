@@ -69,31 +69,20 @@ I actively maintain and contribute to open-source projects. Most of my work revo
 
 ---
 
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚧 [Coming Soon] — Stay tuned for technical articles on my personal website.
-<!-- BLOG-POST-LIST:END -->
-
-<p>
-  <a href="https://www.testing">
-    <img src="https://img.shields.io/badge/🌐_Personal_Blog-www.testing-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 <p>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/alpha-vidi-5658b43a0/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://www.instagram.com/alpharidhooo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:alpharidhodev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://alpharidho-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
