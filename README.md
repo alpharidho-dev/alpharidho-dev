@@ -1,6 +1,7 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=Alpha%20Ridho&fontSize=75&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Explorer%20%26%20Innovator&descSize=18&descAlignY=55&animation=fadeIn)
+<!-- Header alternatif: readme-typing-svg (stabil) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=58A6F7&center=true&vCenter=true&width=600&height=70&lines=Alpha+Ridho;Software+Engineering+Student;Explorer+%26+Innovator" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +20,6 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <!-- Ganti dengan badge versi terbaru dari https://img.shields.io/ -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,14 +39,23 @@
 
 ### 📊 GitHub Statistics
 
-<!-- Bagian ini akan menampilkan statistik dari GitHub Actions (jika kamu pilih Alternatif 1) -->
-<!-- Tampilan akan muncul secara otomatis setelah workflow pertama kali dijalankan -->
-<img src="https://raw.githubusercontent.com/alpharidho-dev/alpharidho-dev/main/github-metrics.svg" alt="Metrics" width="100%">
+<div align="center">
+  <!-- Statistik alternatif menggunakan gh-stats.com (lebih stabil) -->
+  <img height="180em" src="https://gh-stats.com/api?username=alpharidho-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+  <img height="180em" src="https://gh-stats.com/api/top-langs?username=alpharidho-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <br/>
+  <!-- Streak alternatif dari git-streak-stats -->
+  <img src="https://git-streak-stats.vercel.app?user=alpharidho-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&fire=1F6FEB&ring=58A6FF&currStreakLabel=58A6FF" />
+</div>
 
-<!--
-  Alternatif jika menggunakan layanan pengganti:
-  <img height="180em" src="https://github-readme-stats-git-main-alpharidho-dev.vercel.app/api?username=alpharidho-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
--->
+<div align="center">
+  
+  ![Total Stars](https://img.shields.io/github/stars/alpharidho-dev?style=social)
+  ![Followers](https://img.shields.io/github/followers/alpharidho-dev?style=social)
+  
+</div>
+
+> ⚠️ *Catatan: Jika gambar statistik tidak muncul, tunggu beberapa menit atau refresh. Layanan alternatif ini lebih stabil, tetapi mungkin pertama kali perlu waktu.*
 
 ---
 
